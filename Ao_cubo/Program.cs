@@ -10,7 +10,7 @@ namespace Ao_cubo
            int num2 = Int32.Parse(Console.ReadLine());
 
            for (int i = num1; i < num2 ; i++) {
-               double cubo = i*i*i;
+               double cubo = i*i;
                
                Console.WriteLine(cubo);
 
