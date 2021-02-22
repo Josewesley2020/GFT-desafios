@@ -1,0 +1,13 @@
+C:\Users\Wesley\Documents\areadetrabalho2\gft_processo\Calcula_valor\Calcula_valor\obj\Debug\netcoreapp3.1\Calcula_valor.csprojAssemblyReference.cache
+C:\Users\Wesley\Documents\areadetrabalho2\gft_processo\Calcula_valor\Calcula_valor\obj\Debug\netcoreapp3.1\Calcula_valor.AssemblyInfoInputs.cache
+C:\Users\Wesley\Documents\areadetrabalho2\gft_processo\Calcula_valor\Calcula_valor\obj\Debug\netcoreapp3.1\Calcula_valor.AssemblyInfo.cs
+C:\Users\Wesley\Documents\areadetrabalho2\gft_processo\Calcula_valor\Calcula_valor\obj\Debug\netcoreapp3.1\Calcula_valor.csproj.CoreCompileInputs.cache
+C:\Users\Wesley\Documents\areadetrabalho2\gft_processo\Calcula_valor\Calcula_valor\bin\Debug\netcoreapp3.1\Calcula_valor.exe
+C:\Users\Wesley\Documents\areadetrabalho2\gft_processo\Calcula_valor\Calcula_valor\bin\Debug\netcoreapp3.1\Calcula_valor.deps.json
+C:\Users\Wesley\Documents\areadetrabalho2\gft_processo\Calcula_valor\Calcula_valor\bin\Debug\netcoreapp3.1\Calcula_valor.runtimeconfig.json
+C:\Users\Wesley\Documents\areadetrabalho2\gft_processo\Calcula_valor\Calcula_valor\bin\Debug\netcoreapp3.1\Calcula_valor.runtimeconfig.dev.json
+C:\Users\Wesley\Documents\areadetrabalho2\gft_processo\Calcula_valor\Calcula_valor\bin\Debug\netcoreapp3.1\Calcula_valor.dll
+C:\Users\Wesley\Documents\areadetrabalho2\gft_processo\Calcula_valor\Calcula_valor\bin\Debug\netcoreapp3.1\Calcula_valor.pdb
+C:\Users\Wesley\Documents\areadetrabalho2\gft_processo\Calcula_valor\Calcula_valor\obj\Debug\netcoreapp3.1\Calcula_valor.dll
+C:\Users\Wesley\Documents\areadetrabalho2\gft_processo\Calcula_valor\Calcula_valor\obj\Debug\netcoreapp3.1\Calcula_valor.pdb
+C:\Users\Wesley\Documents\areadetrabalho2\gft_processo\Calcula_valor\Calcula_valor\obj\Debug\netcoreapp3.1\Calcula_valor.genruntimeconfig.cache
