@@ -1,0 +1,16 @@
+/home/juliana/Área de Trabalho/GFT/Desafio03/bin/Debug/net5.0/Desafio03
+/home/juliana/Área de Trabalho/GFT/Desafio03/bin/Debug/net5.0/Desafio03.deps.json
+/home/juliana/Área de Trabalho/GFT/Desafio03/bin/Debug/net5.0/Desafio03.runtimeconfig.json
+/home/juliana/Área de Trabalho/GFT/Desafio03/bin/Debug/net5.0/Desafio03.runtimeconfig.dev.json
+/home/juliana/Área de Trabalho/GFT/Desafio03/bin/Debug/net5.0/Desafio03.dll
+/home/juliana/Área de Trabalho/GFT/Desafio03/bin/Debug/net5.0/ref/Desafio03.dll
+/home/juliana/Área de Trabalho/GFT/Desafio03/bin/Debug/net5.0/Desafio03.pdb
+/home/juliana/Área de Trabalho/GFT/Desafio03/obj/Debug/net5.0/Desafio03.csprojAssemblyReference.cache
+/home/juliana/Área de Trabalho/GFT/Desafio03/obj/Debug/net5.0/Desafio03.GeneratedMSBuildEditorConfig.editorconfig
+/home/juliana/Área de Trabalho/GFT/Desafio03/obj/Debug/net5.0/Desafio03.AssemblyInfoInputs.cache
+/home/juliana/Área de Trabalho/GFT/Desafio03/obj/Debug/net5.0/Desafio03.AssemblyInfo.cs
+/home/juliana/Área de Trabalho/GFT/Desafio03/obj/Debug/net5.0/Desafio03.csproj.CoreCompileInputs.cache
+/home/juliana/Área de Trabalho/GFT/Desafio03/obj/Debug/net5.0/Desafio03.dll
+/home/juliana/Área de Trabalho/GFT/Desafio03/obj/Debug/net5.0/ref/Desafio03.dll
+/home/juliana/Área de Trabalho/GFT/Desafio03/obj/Debug/net5.0/Desafio03.pdb
+/home/juliana/Área de Trabalho/GFT/Desafio03/obj/Debug/net5.0/Desafio03.genruntimeconfig.cache
